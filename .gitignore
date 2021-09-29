@@ -3,3 +3,6 @@
 ################################################################################
 
 /Grocery.Core/bin
+/Grocery.Core/obj
+/Grocery.DAL/bin
+/Grocery.DAL/obj
